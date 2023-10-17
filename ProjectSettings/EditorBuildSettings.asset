@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/InfiniteRunnerEngine/Common/Scenes/SplahScreen.unity
+    guid: ebfc1560316dcd14595f1ebb7bf1da4e
+  - enabled: 1
+    path: Assets/InfiniteRunnerEngine/Common/Scenes/StartScreen.unity
+    guid: f85a334c9b92294469686a6e357e41c3
+  - enabled: 1
+    path: Assets/InfiniteRunnerEngine/Common/Scenes/LoadingScreen.unity
+    guid: 6fda17ed4f3a49d4c8c4b3e6264e51d9
+  - enabled: 1
+    path: Assets/InfiniteRunnerEngine/Common/Scenes/LevelSelection.unity
+    guid: 9675d0f5d7a14c347be7ee6aed21d458
+  - enabled: 1
+    path: Assets/InfiniteRunnerEngine/Common/Scenes/SettingScreen.unity
+    guid: c64e337fcc182b14a97fe3d081518af3
+  - enabled: 1
+    path: Assets/InfiniteRunnerEngine/Common/Scenes/HighScoreScreen.unity
+    guid: 786604482d414e048a378bd214e96ea0
+  - enabled: 1
+    path: Assets/InfiniteRunnerEngine/Demos/Minimal/Run Shilin.unity
+    guid: 7c70618f699de44458a7f6997f4e0b8a
+  - enabled: 1
+    path: Assets/InfiniteRunnerEngine/Demos/Minimal/Run Buba.unity
+    guid: 0d6a87210634d1644966ca7c0b3615fc
+  - enabled: 1
+    path: Assets/InfiniteRunnerEngine/Demos/FlappyCloud/Run-Fly Machito.unity
+    guid: 1ffaddc690283474a83febc2404be66e
+  - enabled: 1
+    path: Assets/InfiniteRunnerEngine/Demos/SkyTheory/Fly Olek.unity
+    guid: f8da5ff5a1c2d43d5b2f215cc341e5bc
+  - enabled: 1
+    path: Assets/InfiniteRunnerEngine/Demos/Jumping Hybrid/Jumping Hybrid.unity
+    guid: 0f1b08418ea7d3e42888cb6a691f9f66
+  m_configObjects: {}
